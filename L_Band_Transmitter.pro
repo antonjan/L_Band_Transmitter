@@ -1,4 +1,4 @@
-update=Wed 08 Feb 2017 21:13:32 SAST
+update=Wed 08 Feb 2017 23:28:52 SAST
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,5 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=ltc559
+LibName31=STM32407_J2_Connector
+LibName32=SI535

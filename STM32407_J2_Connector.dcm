@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP stm32Connector
+D STM32F407 Board Connector J2
+$ENDCMP
+#
+#End Doc Library
