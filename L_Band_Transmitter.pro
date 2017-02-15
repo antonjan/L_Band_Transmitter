@@ -1,4 +1,4 @@
-update=Wed 08 Feb 2017 23:28:52 SAST
+update=Wed 15 Feb 2017 21:36:02 SAST
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,7 @@ LibName29=valves
 LibName30=ltc559
 LibName31=STM32407_J2_Connector
 LibName32=SI535
+LibName33=ADRF6720-27
+LibName34=Raspberry_Pi_2m_TX_LPF_7Stage-cache
+LibName35=Raspberry_Pi_2m_TX-cache
+LibName36=RPi_Hat-cache
